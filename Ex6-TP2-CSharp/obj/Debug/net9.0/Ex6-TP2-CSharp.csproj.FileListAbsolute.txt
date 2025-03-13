@@ -1,0 +1,14 @@
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\bin\Debug\net9.0\Ex6-TP2-CSharp.exe
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\bin\Debug\net9.0\Ex6-TP2-CSharp.deps.json
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\bin\Debug\net9.0\Ex6-TP2-CSharp.runtimeconfig.json
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\bin\Debug\net9.0\Ex6-TP2-CSharp.dll
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\bin\Debug\net9.0\Ex6-TP2-CSharp.pdb
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\Ex6-TP2-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\Ex6-TP2-CSharp.AssemblyInfoInputs.cache
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\Ex6-TP2-CSharp.AssemblyInfo.cs
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\Ex6-TP2-CSharp.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\Ex6-TP2-CSharp.dll
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\refint\Ex6-TP2-CSharp.dll
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\Ex6-TP2-CSharp.pdb
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\Ex6-TP2-CSharp.genruntimeconfig.cache
+C:\Projetos VsCode\EX6-TP2-CSharp\Ex6-TP2-CSharp\obj\Debug\net9.0\ref\Ex6-TP2-CSharp.dll
