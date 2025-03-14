@@ -27,5 +27,30 @@
         // calculo do IMC
         double IMC = peso / (altura * altura);
         Console.WriteLine($"Seu IMC: {IMC:F2}");
+
+        if (IMC < 18.5)
+        {
+            Console.WriteLine("Abaixo do peso");
+        }
+        else if (IMC >= 18.5 && IMC <= 24.9)
+        {
+            Console.WriteLine("Peso normal");
+        }
+        else if (IMC >= 25 && IMC <= 29.9)
+        {
+            Console.WriteLine("Excesso de Peso");
+        }
+        else if (IMC >= 30 && IMC <= 34.9)
+        {
+            Console.WriteLine("Obsidade I");
+        }
+        else if (IMC >= 35 && IMC <= 39.9)
+        {
+            Console.WriteLine("Obesidade II");
+        }
+        else
+        {
+            Console.WriteLine("Obesidade III");
+        }
     }
 }
